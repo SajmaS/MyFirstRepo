@@ -71,7 +71,7 @@ export default function Home() {
         <div className={styles.itemSajmaGridReferences}>
           <h2>References</h2>
           <p>
-          <a href="https://tpilawyers.com/team-member/phillip-paglino/" target="_blank">Phillip Paglino, Lawyer:</a>
+          <a>Phillip Paglino, Lawyer:</a>
             
               <q>
                 Sajma is extremely committed to the
