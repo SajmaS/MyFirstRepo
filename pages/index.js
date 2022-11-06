@@ -56,7 +56,7 @@ export default function Home() {
 
         <div className={styles.itemSajmaGridSummary}>
           <p>
-            I'm a Legal Assistant with
+            Im a Legal Assistant with
             over 13 years of experience
             in Toronto law firms
             specializing in personal
@@ -102,7 +102,7 @@ export default function Home() {
         <div className={styles.itemSajmaGridProfessional}>
           <h2>PROFESSIONAL EXPERIENCE</h2>
           <h5>
-            2012 – 2017
+            2012 to 2017
           </h5>
           <h3>TZAFERIS PERSONAL INJURY LAWYERS, TORONTO, CANADA</h3>
             <ul>
