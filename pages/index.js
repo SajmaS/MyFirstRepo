@@ -32,7 +32,7 @@ export default function Home() {
         <div>
             <FontAwesomeIcon
             icon={faMobile}
-            style={{ fontSize: 53, color: "grey",justifyContent:'center',alignContent:'center' }}
+            style={{ fontSize: 53, color: "grey",justifyContent:"center",alignContent:"center" }}
             />
             </div>
           <div>         
@@ -44,7 +44,7 @@ export default function Home() {
           <div>
             <FontAwesomeIcon
             icon={faEnvelope}
-            style={{ fontSize: 40, color: "white",justifyContent:'center',alignContent:'center' }}
+            style={{ fontSize: 40, color: "white",justifyContent:"center",alignContent:"center" }}
             />
             </div>
           <div>         
@@ -167,7 +167,7 @@ export default function Home() {
             <div>
               <FontAwesomeIcon
               icon={faGraduationCap}
-              style={{ fontSize: 40, color: "black",justifyContent:'center',alignContent:'center' }}
+              style={{ fontSize: 40, color: "black",justifyContent:"center",alignContent: "center" }}
               />
             </div>
             <div>
@@ -184,7 +184,7 @@ export default function Home() {
         <div>
             <FontAwesomeIcon
             icon={faHandshake}
-            style={{ fontSize: 40, color: "black",justifyContent:'center',alignContent:'center' }}
+            style={{ fontSize: 40, color: "black",justifyContent:"center",alignContent:"center" }}
             />
             </div>
           <ul>
@@ -229,7 +229,7 @@ investigations.</li>
         <div>
             <FontAwesomeIcon
             icon={faLanguage}
-            style={{ fontSize: 40, color: "black",justifyContent:'center',alignContent:'center' }}
+            style={{ fontSize: 40, color: "black",justifyContent:"center",alignContent:"center" }}
             />
           </div>
           <ul>
