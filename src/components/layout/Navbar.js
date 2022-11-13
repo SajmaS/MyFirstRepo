@@ -10,7 +10,7 @@ const Navbar = () => {
             Sajma Šeper
         </div>
         <div className={styles.navgriditemnavphone}>
-            061-319-058
+            +387 061 319 058
         </div>
         <div className={styles.navgriditemnavsocial}>
             <div>

@@ -3,10 +3,9 @@ import styles from '../styles/Home.module.css'
 
 const About = () => {
     return (
-<div className={styles.backgroundimage}>
-<BGI/>
-</div>
-        
+        <div className={styles.backgroundimage}>
+        <BGI/>
+        </div>
     )
 }
 
