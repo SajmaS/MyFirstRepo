@@ -5,7 +5,7 @@ import { Montserrat } from '@next/font/google'
 import { config, dom } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false;
 
-const montserrat = Montserrat()
+const montserrat = Montserrat({ subsets: ['latin'] })
 
 function MyApp({ Component, pageProps }) {
   return (
