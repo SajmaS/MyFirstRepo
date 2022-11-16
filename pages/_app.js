@@ -1,6 +1,6 @@
-import Layout from '../src/components/layout/Layout'
 import '../styles/globals.css'
 import Head from 'next/head'
+import Layout from '../src/components/layout/layout';
 import { Montserrat } from '@next/font/google'
 import { config, dom } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false;
