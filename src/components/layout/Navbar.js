@@ -14,7 +14,8 @@ const Navbar = () => {
         </div>
         <div className={styles.navgriditemnavsocial}>
             <div>
-                <a href="https://www.linkedin.com/in/sajma-seper/" target="_blank" rel="noopener noreferrer">
+                {/* <a href="https://www.linkedin.com/in/sajma-seper/" target="_blank" rel="noopener noreferrer"> */}
+                <a>
                 <FontAwesomeIcon
                 icon={faLinkedin}
                 />
